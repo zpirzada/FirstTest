@@ -4,6 +4,6 @@ public class Main {
         int y=7;
         int z = x + y;
         System.out.println("Hello world!");
-        System.out.println("x + y = " + z);
+        System.out.println("x + y  = " + z);
     }
 }
